@@ -200,6 +200,18 @@ nav .container {
   height: 38px;
 }
 
+.points{
+  opacity: 0.3;
+  position: absolute;
+}
+
+
+header .points1{
+  width: 420px;
+  bottom: -75px;
+  left: -150px;
+}
+
 header .square {
   right: 53%;
   top: 76%;
